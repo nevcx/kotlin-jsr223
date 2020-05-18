@@ -1,4 +1,4 @@
-# Get the line number of an error when calling Kotlin from Java (JSR 223) return no line number.
+# Test project which calls Kotlin from Java (JSR 223)
 
 To run test, execute: `./gradlew test`.
  
